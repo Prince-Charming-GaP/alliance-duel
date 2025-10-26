@@ -9,6 +9,7 @@ Creating a comprehensive guide for Alliance Duel in the game Last Z: Survival Sh
 - **Accuracy**: Information must be accurate and up-to-date
 - **Non-redundant**: Single source of truth - no duplicate information
 - **Output format**: Markdown
+- **Navigation**: Add markdown links between published documents for easy navigation (exclude todo/ documents)
 
 ### Workflow Rules
 1. **Research First**: Thorough research and fact-checking required before ANY alterations
@@ -31,6 +32,10 @@ Creating a comprehensive guide for Alliance Duel in the game Last Z: Survival Sh
 - Maintain consistency across all documents
 - Keep information current with game updates
 - Eliminate redundancy between documents when consolidating
+- Add navigation links at the top and bottom of each document:
+  - Top: Link back to previous document (e.g., "← Back to General Introduction")
+  - Bottom: Link to next document or indicate "Coming Soon" for unpublished content
+  - Format: `**[← Back to Document](filename.md)** | **Next: [Document Name](filename.md)**`
 
 ## Goal
 Create a single, comprehensive, accurate guide that alliance members can trust for Alliance Duel strategy and tactics.
