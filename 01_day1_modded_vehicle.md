@@ -1,10 +1,12 @@
-# Alliance Duel - Day 1: Modded Vehicle Boost (Golden Wrenches Day!) 🔧
+# Alliance Duel - Day 1: Modded Vehicle Boost (Golden Wrenches Day!)
+
+**[← Back to General Introduction](00_general_introduction.md)**
 
 ---
 
 Monday is **Day 1: Modded Vehicle Boost**. This is GOLDEN WRENCH DAY - when we use all saved vehicle resources. If you've been hoarding golden wrenches all week, monday is payday!
 
-## What Gives Points Tomorrow
+## What Gives Points on Day 1
 
 ### 🔥 HIGH VALUE
 1. **Golden Wrenches** - 5,000 base points (18,400+ with full research!)
@@ -30,18 +32,18 @@ Monday is **Day 1: Modded Vehicle Boost**. This is GOLDEN WRENCH DAY - when we u
 - [ ] Save ALL vehicle component boxes (Level 1-5)
 - [ ] Save ALL chip chests (green, blue, purple and yellow)
 - [ ] Save ALL modification blueprints (don't use yet!)
-- [ ] Stack radar events to 34/35 or 39/40 capacity - Make sure you don't stack more, because it'll make you lose missions
+- [ ] Stack radar events to 1 below your maximum capacity (e.g., 34/35, 39/40, 49/50) - Make sure you don't stack more, because it'll make you lose missions. Your maximum capacity depends on your radar building level (ranges from ~10 at level 1 to 50+ at higher levels)
 
 ### STARTING 0:00 am Server Time:
 1. **WAIT 5 MINUTES!** (0:00-0:05 am server time is preparation period - nothing counts!)
-2. **Wait for Golden Hour!** (12:00 Server Time or last period before reset)
+2. **Wait for Golden Hour!** (8:00-12:00 or 20:00-24:00 Server Time)
 3. **Use ALL golden wrenches** during Golden Hour
 4. **Open ALL vehicle component boxes** (Level 5 first, then 4, 3, 2, 1)
-4. **Open ALL chip chests**
-5. **Complete ALL radar events** (5,000 points each)
-6. **Join Level 9-10 boomer rallies** (NOT Level 1-8!)
-7. **Consume modification blueprints**
-8. **Collect resource gathering trucks** (if you started them earlier)
+5. **Open ALL chip chests**
+6. **Complete ALL radar events** (5,000 points each)
+7. **Join Level 9-10 boomer rallies** (NOT Level 1-8!)
+8. **Consume modification blueprints**
+9. **Collect resource gathering trucks** (if you started them earlier)
 
 ## Boomer Rally Strategy
 
@@ -58,21 +60,21 @@ Don't let the "Certain Defeat" warning fool you - that's for solo attacks. With 
 
 ## Golden Hour Timing
 
-**Golden Hours (when Full Preparedness overlaps):**
-- **First window:** 12:00 Server Time
-- **Second window:** 8:00pm/20:00 Server Time (last window before reset)
+**Guaranteed Golden Hours (when Full Preparedness overlaps):**
+- **Morning window:** 8:00-12:00 Server Time
+- **Evening window:** 20:00-24:00 Server Time (last window before reset)
 
-During Golden Hour, your actions count for BOTH events - Alliance Duel points + Full Preparedness rewards!
+These windows ALWAYS match Day 1 theme! During Golden Hour, your actions count for BOTH events - Alliance Duel points + Full Preparedness rewards!
 
 ## What NOT to Do
 
-❌ **DON'T use golden wrenches before 0:05am** - Preparation period = 0 points!
-❌ **DON'T waste time on creep kills** - 80-800 points isn't worth the healing
-❌ **DON'T gather resources for this event** - 1-3 points per 1,000 is terrible
-❌ **DON'T rally Level 1-8 boomers** - Same gas cost, 400-800 fewer points
-❌ **DON'T use construction speedups** - Save for Day 2!
-❌ **DON'T use research speedups** - Save for Day 3!
-❌ **DON'T use hero fragments** - Save for Day 4!
+- ❌ **DON'T use golden wrenches before 0:05am** - Preparation period = 0 points!
+- ❌ **DON'T waste time on creep kills** - 80-800 points isn't worth the healing
+- ❌ **DON'T gather resources for this event** - 1-3 points per 1,000 is terrible
+- ❌ **DON'T rally Level 1-8 boomers** - Same gas cost, 400-800 fewer points
+- ❌ **DON'T use construction speedups** - Save for Day 2!
+- ❌ **DON'T use research speedups** - Save for Day 3!
+- ❌ **DON'T use hero fragments** - Save for Day 4!
 
 ## Component Box Priority
 
@@ -151,8 +153,8 @@ That's 13,400 extra points PER WRENCH! Make Alliance Recognition research your p
 
 This is considered the easiest and most rewarding day - if you've saved your golden wrenches, you're already set for success!
 
-Don't overthink it. Just use ALL your vehicle resources during Golden Hour and avoid everything else. Let's dominate! 🚗💨
+Don't overthink it. Just use ALL your vehicle resources during Golden Hour and avoid everything else. Let's dominate!
 
 ---
 
-**Next up: Day 2 (Shelter Upgrade) Strategy**
+**[← Back to General Introduction](00_general_introduction.md)** | **Next: Day 2 (Shelter Upgrade) Strategy** *(Coming Soon)*

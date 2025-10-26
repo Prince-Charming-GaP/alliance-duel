@@ -52,7 +52,7 @@ Alliance Duel operates within a **league structure** with three competitive tier
 - Don't complete green/blue/purple tasks when orange tasks are available
 - Don't open resource chests until you need them (they scale to your HQ level!)
 - Don't switch alliances mid-event (you'll lose all rewards!)
-- Don't complete radar events immediately (save them for theme days where they give points!)
+- Don't complete radar events immediately (stack them to 1 below your maximum capacity for theme days where they give points!)
 
 ### ✅ DO THIS:
 - **Save EVERYTHING** for its correct theme day
@@ -174,4 +174,4 @@ Let me know when you have any additions or corrections too!
 
 ---
 
-**Next Chapter: Day 1 (Modded Vehicle Boost) Strategy**
+**Next:** [Day 1 (Modded Vehicle Boost) Strategy](01_day1_modded_vehicle.md)
