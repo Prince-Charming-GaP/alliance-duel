@@ -134,6 +134,60 @@ That's 13,400 extra points PER WRENCH! Make Alliance Recognition research your p
 
 **That's a 3.68x multiplier!** If you haven't researched Event Expert and Event King yet, make it your priority.
 
+## Vehicle Modification Rating & Super Upgrade Buffs
+
+### Modification Rating Levels
+As you upgrade your vehicles, you progress through modification rating levels:
+- Intern
+- Novice
+- Veteran
+- Elite
+- Expert
+- Master
+- Grandmaster
+- Modding Overlord
+
+**Each rating level provides permanent perks**, such as:
+- 50% cheaper upgrades (permanent cost reduction)
+- Higher points per golden wrench during Alliance Duel
+- Other bonuses that stack as you progress
+
+### Super Upgrade Buff - GAME CHANGING for Maximum Scoring!
+
+When you unlock certain **major tanks** (Hercules, Destroyer, Destroyer EX), you get access to a **Super Upgrade Buff** - a ONE-TIME, 30-minute buff where blueprint experience is **DOUBLED**!
+
+**CRITICAL STRATEGY:**
+- Save ~150,000 modification blueprints BEFORE unlocking these major tanks
+- Activate the buff during **Golden Hour** (8:00-12:00 or 20:00-24:00 Server Time on Day 1)
+- Use ALL your blueprints during the 30-minute buff window
+- Blueprint usage during Golden Hour counts for BOTH Alliance Duel AND Full Preparedness!
+- Continue using golden wrenches for rest of Golden Hour with your new higher modification level
+- One player jumped from level 100 to 124 using 150k blueprints during this buff!
+
+**Important Notes:**
+- The buff appears when unlocking: **Hercules**, **Destroyer**, or **Destroyer EX**
+- A blinking icon appears in upper-left corner - you must CLICK it to activate
+- Don't click the icon until you're ready with 150k+ blueprints!
+- The 30-minute timer starts when YOU activate it, so timing is critical
+- This is likely a ONE-TIME buff per major tank unlock
+
+### Why This Matters for Day 1:
+- Higher modification level = significantly more points per golden wrench
+- The 30-minute buff lets you jump 20+ levels instantly
+- Combining high modification level + Event Expert/Event King research = maximum Day 1 scoring
+- This is why experienced players save 150k+ blueprints for these tank unlocks
+
+**Recommended Timing:**
+1. Save 150,000+ modification blueprints
+2. Work toward unlocking Hercules/Destroyer/Destroyer EX (but don't unlock yet!)
+3. Wait for Alliance Duel Day 1 to start
+4. Wait for Golden Hour (8:00-12:00 or 20:00-24:00 Server Time)
+5. Unlock the tank and immediately activate Super Upgrade Buff
+6. Use all 150k blueprints in the 30-minute window (counts for both events!)
+7. Continue using golden wrenches for rest of Golden Hour with your new higher rating level
+
+**This is a ONCE PER TANK buff - don't waste it! Time it for Golden Hour on Day 1 for maximum points!**
+
 ## Quick Reference Checklist
 
 **Things to use:**
@@ -157,4 +211,4 @@ Don't overthink it. Just use ALL your vehicle resources during Golden Hour and a
 
 ---
 
-**[← Back to General Introduction](00_general_introduction.md)** | **Next: Day 2 (Shelter Upgrade) Strategy** *(Coming Soon)*
+**[← Back to General Introduction](00_general_introduction.md)** | **Next: [Day 2 (Shelter Upgrade) Strategy](02_day2_shelter_upgrade.md)**
