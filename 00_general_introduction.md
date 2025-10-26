@@ -1,13 +1,6 @@
 # Alliance Duel - General Introduction
 
-**Subject: Alliance Duel Strategy - Essential Information for Our Team**
-
 ---
-
-Hey team!
-
-A new Alliance Duel is coming up next Monday and I want to make sure we're all on the same page to maximize our success. In this e-mail series I will provide in depth information about the event, starting with a general information e-mail.
-
 Alliance duel is a 6-day competitive event where smart planning beats raw power. Let me break down what you need to know.
 
 ## What is Alliance Duel?
@@ -111,7 +104,7 @@ We need at least **20 active members** to participate. To help the alliance dail
 **ORANGE TIER OR NOTHING.** Here are some examples:
 - Orange bounty mission: 111,000 points
 - Green bounty mission: **0 points**
-- Orange hero fragment: 5,000 points  
+- Orange hero fragment: 5,000 points
 - Blue hero fragment: 500 points
 - Orange intercity trade (S-rank): Points awarded
 - Blue/purple/A-rank intercity trade: **0 points**
@@ -146,6 +139,4 @@ Let me know when you have any additions or corrections too!
 
 ---
 
-**Next Email: Day 1 (Modded Vehicle Boost) Strategy**
-
-Stay tuned!
+**Next Chapter: Day 1 (Modded Vehicle Boost) Strategy**
