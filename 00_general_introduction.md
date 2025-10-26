@@ -9,10 +9,29 @@ Alliance Duel is our weekly competitive event (Monday through Saturday) where we
 
 The key principle: **SAVE your resources all week and spend them ONLY on their designated theme day.** Whether you upgrade today or during the event doesn't matter for your progression, but during the event you get massive free rewards for the same actions! Full preparedness may form an exception to this, but that depends on our alliance duel margin. I will address this later.
 
+## League System
+
+Alliance Duel operates within a **league structure** with three competitive tiers:
+
+- **Silver League** - Entry level for new alliances
+- **Gold League** - Mid-tier competition with better rewards
+- **Diamond League** - Top-tier competition with the best rewards
+
+**How Leagues Work:**
+- Each league competition consists of **multiple Alliance Duel weeks** (typically 4-6 weeks)
+- Your alliance competes in a numbered group with other alliances at the same tier (e.g., "Silver League 1", "Silver League 2", etc.)
+- **Promotion/Demotion** is determined by your win/loss record across all weeks in the competition
+- Ranking within your league is based on: number of wins > when you lost (alliances that lose later rank higher)
+- At the end of the competition, top performers are promoted to the next tier, bottom performers may be demoted
+- Higher leagues offer significantly better rewards
+
+**Key Point:** Every weekly duel matters! Your performance across the entire league season determines whether you move up, stay, or move down.
+
 ## Event Timing
 
 - **Daily reset: 0:00 Server Time (0:00 GMT-2)**
 - **Duration: 6 days** (Monday through Saturday)
+- **Rest day: Sunday** - No Alliance Duel activities
 - Each day has a different theme that determines what gives points
 
 **Important:** Server Time = GMT-2 timezone. Convert to your local time!
@@ -33,7 +52,7 @@ The key principle: **SAVE your resources all week and spend them ONLY on their d
 - Don't complete green/blue/purple tasks when orange tasks are available
 - Don't open resource chests until you need them (they scale to your HQ level!)
 - Don't switch alliances mid-event (you'll lose all rewards!)
-- Complete radar events immediately
+- Don't complete radar events immediately (save them for theme days where they give points!)
 
 ### ✅ DO THIS:
 - **Save EVERYTHING** for its correct theme day
@@ -48,21 +67,28 @@ The key principle: **SAVE your resources all week and spend them ONLY on their d
 Golden Hour is when the Full Preparedness event theme aligns with your current Alliance Duel day theme. During this 4-hour window, your actions count for BOTH events simultaneously - meaning you get rewards from both Alliance Duel AND Full Preparedness for the same activities!
 
 **How Full Preparedness Works:**
-- Full Preparedness rotates through 5 themes every 4 hours:
+- Full Preparedness rotates through themes on a fixed daily schedule (Server Time):
+    - **0:00-4:00** - Theme 1
+    - **4:00-8:00** - Theme 2
+    - **8:00-12:00** - Theme 3 (ALWAYS matches current Alliance Duel day!)
+    - **12:00-16:00** - Theme 4
+    - **16:00-20:00** - Theme 5
+    - **20:00-24:00** - Theme 3 (ALWAYS matches current Alliance Duel day!)
+- **KEY INSIGHT:** Theme 3 is dynamically set to match whatever the current Alliance Duel day theme is. This means you get **guaranteed Golden Hours** at 8:00-12:00 and 20:00-24:00 Server Time every single day!
+- The other themes rotate through:
     - Hero Initiative
     - Shelter Upgrade
-    - Army Expansion
+    - Army Expansion (corresponds to Holistic Growth in Alliance Duel)
     - Age of Science
-    - Mod Vehicle Boost
-- When the Full Preparedness theme matches your Alliance Duel day (e.g., both are "Shelter Upgrade"), that's Golden Hour!
+    - Mod Vehicle Boost (corresponds to Modded Vehicle Boost in Alliance Duel)
 
-**Finding Golden Hour:**
-1. Check the Full Preparedness calendar in-game
-2. See which theme is active now and when it changes
-3. Compare with your current Alliance Duel day
-4. When they match = Golden Hour!
+**Guaranteed Golden Hours (Every Day!):**
+- **8:00-12:00 Server Time** - Theme 3 window
+- **20:00-24:00 Server Time** - Theme 3 window (repeats)
 
-**Typical Pattern:** Golden Hour usually happens 2 times per day, but the exact timing varies daily because Full Preparedness keeps rotating on its 4-hour cycle.
+These two windows ALWAYS match your current Alliance Duel day theme, so you can reliably plan your major activities during these times to maximize rewards from both events!
+
+**Additional Golden Hours:** You may also get bonus Golden Hours during the other time slots (0:00-4:00, 4:00-8:00, 12:00-16:00, 16:00-20:00) if those themes happen to align with your current Alliance Duel day. Check the Full Preparedness calendar in-game to see the rotation.
 
 **Strategy:** Wait for Golden Hour windows to do your major upgrades, research, and resource spending - you'll unlock chests and earn medals for BOTH events with the same actions!
 
@@ -113,7 +139,16 @@ You can complete 100 green tasks and score less than 1 orange task. **Only refre
 
 ## Victory Strategy
 
-With 13 points up for grabs each week, the alliance holding at lease 7 points wins the alliance duel
+With 13 points up for grabs each week, the alliance holding at least 7 points wins the alliance duel.
+
+**Point Distribution:**
+- Day 1 (Modded Vehicle): 1 point
+- Day 2 (Shelter Upgrade): 2 points
+- Day 3 (Age of Science): 2 points
+- Day 4 (Hero Initiative): 2 points
+- Day 5 (Holistic Growth): 2 points
+- Day 6 (Enemy Buster): 4 points
+- **Total: 13 points**
 
 We win by:
 1. **Everyone saving resources all week** for correct days
