@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir:*)",
+      "WebSearch",
+      "WebFetch(domain:bacons-last-z-guide.fandom.com)",
+      "WebFetch(domain:lastzdata.com)",
+      "WebFetch(domain:firstfungroup.zendesk.com)",
+      "WebFetch(domain:lastwar.fandom.com)",
+      "WebFetch(domain:lastwar.wiki)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
