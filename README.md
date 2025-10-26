@@ -9,7 +9,7 @@ A comprehensive strategy guide for Alliance Duel events in Last Z: Survival Shoo
 
 ### Daily Strategy Guides
 1. **[Day 1: Modded Vehicle Boost](01_day1_modded_vehicle.md)** - Golden wrenches, vehicle components, and radar events
-2. **Day 2: Shelter Upgrade** *(Coming Soon)* - Building upgrades and construction speedups
+2. **[Day 2: Shelter Upgrade](02_day2_shelter_upgrade.md)** - Building upgrades, construction speedups, and orange bounties
 3. **Day 3: Age of Science** *(Coming Soon)* - Research speedups and badge consumption
 4. **Day 4: Hero Initiative** *(Coming Soon)* - Hero fragments and equipment
 5. **Day 5: Holistic Growth** *(Coming Soon)* - Troop training and power gains
