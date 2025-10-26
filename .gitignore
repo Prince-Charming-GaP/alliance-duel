@@ -1,0 +1,28 @@
+# Windows Zone Identifier files
+*.Zone.Identifier
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux
+*~
+.directory
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# Backup files
+*.bak
+*.backup
+
+# Editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
