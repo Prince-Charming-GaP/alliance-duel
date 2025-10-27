@@ -20,6 +20,121 @@ Tuesday is **Day 2: Shelter Upgrade**. This is CONSTRUCTION DAY - when we use al
 - Green Refugees - **0 POINTS** ❌
 - Green Bounties - **0 POINTS** ❌
 
+## Week-Long Preparation Strategy
+
+Day 2 success requires careful planning and resource management throughout the week. Here's your preparation roadmap:
+
+### What to Save All Week:
+
+**Sunday through Monday (Before Day 2):**
+- DO NOT use construction speedups outside of Alliance Duel Day 2
+- DO NOT complete bounty missions if they're low tier (save refreshes for Day 2)
+- DO NOT recruit refugees if they're low tier (save recruitment tickets)
+- DO collect construction speedups from all sources (events, missions, shop, alliance help)
+- DO plan which buildings you want to upgrade on Day 2
+- DO save diamonds for bounty board and refugee refreshes
+
+**Why This Matters:**
+
+If you use 1,000 construction speedups on Sunday:
+- You complete a building upgrade
+- You get 0 Alliance Duel points
+- You gain building power (good, but...)
+
+If you wait and use those same 1,000 speedups on Day 2:
+- You complete the same building upgrade
+- You get 107,000 Alliance Duel points (1,000 min × 107 points)
+- You gain the same building power
+- **Same upgrade, 107,000 bonus points!**
+
+**The Golden Rule:** Construction speedups should ONLY be used on Day 2 during Alliance Duel (or for urgent HQ upgrades). Save them!
+
+### Building Upgrade Planning:
+
+**Throughout the Week:**
+1. Identify which buildings need upgrades (HQ, Training Camp, Research Lab priority)
+2. Check resource requirements (wood, food, gas, metal)
+3. Gather resources throughout the week
+4. DON'T start the upgrades yet - wait for Day 2!
+5. Request alliance help after starting upgrades on Day 2 (free speedups)
+
+**Strategic Pre-Staging:**
+
+**Monday Evening (Late Day 1):**
+- Start expensive building upgrades (48+ hours)
+- Let them run naturally through the night
+- Finish them with speedups during Day 2 Golden Hour
+- This gives you: speedup points + power points + Full Preparedness rewards
+
+**Example:** Start HQ level 25 upgrade at 10pm Monday (72 hours). On Tuesday evening, speed it up during Golden Hour for massive points!
+
+### Diamond Budget for Refreshing:
+
+**Plan Your Diamond Investment:**
+
+Day 2 is THE day to spend diamonds on refreshes. Here's why it's worth it:
+
+**Bounty Board Refreshing:**
+- Cost: ~100-200 diamonds per refresh
+- Benefit: Orange bounty = 111,000 points
+- ROI: Spending 500 diamonds to get 5 orange bounties = 555,000 points
+
+**Refugee Refreshing:**
+- Cost: ~100-300 diamonds per refresh (or trade "Try Your Luck" for new batch)
+- Benefit: Orange refugee = 107,000 points
+- ROI: Spending 300 diamonds for 3 orange refugees = 321,000 points
+
+**Budget Recommendation:**
+- Casual players: Save 500-1,000 diamonds for Day 2
+- Competitive players: Save 1,000-2,000 diamonds for Day 2
+- Top performers: Save 2,000+ diamonds (maximum refresh efficiency)
+
+**Pro Tip:** Diamonds spent on Day 2 refreshes are worth MORE than most premium shop packs in terms of Alliance Duel points per diamond!
+
+### Speedup Collection Strategy:
+
+**All Week Long:**
+- Complete daily missions (speedup rewards)
+- Participate in alliance events (speedup prizes)
+- Open speedup chests from mission rewards
+- Buy speedups from alliance shop if affordable
+- Request alliance help on ongoing upgrades (free speedups)
+- DON'T use them until Day 2!
+
+**Speedup Priority:**
+1. Universal speedups (use on any construction)
+2. Construction speedups (specifically for Day 2)
+3. Alliance help (always free, request often)
+
+### Bounty/Refugee Tracking:
+
+**Monday (Day 1):**
+- Check bounty board color distribution (but don't complete yet)
+- Check refugee quality (but don't recruit yet)
+- Note refresh costs
+- Budget diamonds accordingly
+
+**Pro Tip:** If you see orange bounties or refugees on Monday, it's okay to complete them IF you've already maxed out Day 1 vehicle activities. Don't waste good opportunities!
+
+### Pre-Event Checklist:
+
+**Monday Evening (Night Before Day 2):**
+- Count your construction speedups (predicts your Day 2 score)
+- Verify you have enough resources for planned building upgrades
+- Check diamond balance for refreshing
+- Review which buildings to upgrade (HQ, Training Camp, etc.)
+- Identify any pre-staged upgrades that will finish on Day 2
+- Join alliance chat to coordinate
+
+**Pre-Staged Upgrade Tracking:**
+- Building: HQ Level 25
+- Started: Monday 10pm
+- Natural completion: Thursday 10pm
+- Plan: Speed up Tuesday 8pm Golden Hour
+- Expected points: ~200,000+ (speedups + power gain)
+
+**Remember:** Day 2 is "orange or nothing" day. Save speedups, save diamonds, and prepare to refresh until you see orange!
+
 ## The Orange Bounty Strategy
 
 **THIS IS THE MOST IMPORTANT PART OF DAY 2!**
@@ -218,4 +333,4 @@ Let's build our way to victory! 🏗️💪
 
 ---
 
-**[← Back to General Introduction](00_general_introduction.md)** | **[← Day 1: Modded Vehicle](01_day1_modded_vehicle.md)** | **Next: Day 3 (Age of Science) Strategy** *(Coming Soon)*
+**[← Back to General Introduction](00_general_introduction.md)** | **[← Day 1: Modded Vehicle](01_day1_modded_vehicle.md)** | **Next: [Day 3 (Age of Science) Strategy](03_day3_age_of_science.md)**
