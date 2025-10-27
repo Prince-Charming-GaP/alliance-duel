@@ -25,6 +25,83 @@ Monday is **Day 1: Modded Vehicle Boost**. This is GOLDEN WRENCH DAY - when we u
 - **Creep kills** - 80-800 points (plus healing costs!)
 - **Resource gathering** - 1-3 points per 1,000 resources
 
+## Week-Long Preparation Strategy
+
+Day 1 success depends entirely on what you save throughout the previous week. Here's your preparation game plan:
+
+### What to Save All Week:
+
+**Sunday through Sunday (The Entire Week):**
+- DO NOT use golden wrenches outside of Alliance Duel Day 1
+- DO NOT open vehicle component boxes (save all levels 1-5)
+- DO NOT open chip chests (green, blue, purple, yellow)
+- DO NOT consume modification blueprints for upgrades
+- DO complete radar events, but DON'T claim them yet - stack to 1 below max capacity
+- DO participate in boomer rallies during the week for practice
+
+**Why This Matters:**
+
+If you use 1 golden wrench on Thursday:
+- You upgrade your vehicle
+- You get 0 Alliance Duel points
+- You improve your vehicle (good, but...)
+
+If you wait and use that same golden wrench on Day 1:
+- You upgrade your vehicle the same amount
+- You get 18,400 Alliance Duel points (with full research!)
+- **Same upgrade, massive bonus points!**
+
+**The Golden Rule:** Golden wrenches and vehicle resources should ONLY be used on Day 1 during Alliance Duel. There is no benefit to using them early.
+
+### Radar Event Stacking Strategy:
+
+**Throughout the Week:**
+1. Complete radar events as they appear
+2. DON'T click "Claim Reward" - let them stack
+3. Stack to 1 below your maximum (34/35, 39/40, 49/50 depending on radar building level)
+4. Stop at 1 below max to avoid losing new radar events
+5. On Day 1, claim ALL stacked rewards during Golden Hour (5,000 points each!)
+
+**Example:** If you stack 34 radar events throughout the week:
+- 34 events × 5,000 points = 170,000 points on Day 1
+- All from events you would complete anyway!
+
+### Component Box Collection:
+
+**All Week Long:**
+- Collect component boxes from events, missions, shop
+- Higher level boxes = exponentially more points (Level 5 = 40,500 points!)
+- Don't be tempted to open them early - the wait is worth it
+- Store them all for Day 1 mass opening
+
+**Pro Tip:** Buy component boxes from alliance shop if available - they're worth far more on Day 1 than their cost.
+
+### Super Upgrade Buff Planning:
+
+**If You're Close to Unlocking Hercules/Destroyer/Destroyer EX:**
+
+1. Throughout the week: Save 150,000+ modification blueprints
+2. Get within 1-2 upgrades of unlocking the major tank
+3. DON'T complete the final unlock until Day 1
+4. Wait for Alliance Duel Day 1 to start
+5. Unlock during Golden Hour and activate the 30-minute Super Upgrade Buff
+6. Consume all 150k blueprints during the buff (20 points each = 3,000,000 points!)
+7. This timing gives you both Alliance Duel points AND Full Preparedness rewards
+
+**This is a once-per-tank opportunity - timing it right can add 3+ million points to your Day 1 score!**
+
+### Pre-Event Checklist:
+
+**Sunday Evening (Night Before Day 1):**
+- Count your golden wrenches (this predicts your Day 1 score)
+- Verify radar events are stacked to 1 below max
+- Count component boxes by level
+- Check modification blueprint count
+- Join alliance chat to coordinate with teammates
+- Set alarm for Golden Hour if needed
+
+**Remember:** Day 1 is the easiest high-scoring day IF you prepared all week. No preparation = no points!
+
 ## Your Day 1 Action Plan
 
 ### BEFORE modded vehicle day start:
