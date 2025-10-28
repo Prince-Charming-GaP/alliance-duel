@@ -29,18 +29,19 @@ You have three viable approaches for Day 6. **All players should consider huntin
 **Best for:** High power players, coordinated alliances, those with resources to spare
 
 **What to do:**
-1. **Attack enemy territories** - Lower points but no gas cost, troops return
+1. **TvT (Tank vs Tank) combat** - No gas cost, troops return if no annihilation
 2. **Farm weaker HQs** - Higher points, costs gas, risk troop loss
-3. **Coordinate with alliance** - Mass attacks on enemy cities
-4. **Capture enemy cities** - Up to 21% ATK bonus (7% per city)
-5. **Capture main city** - 10 million alliance points!
+3. **Coordinate with alliance** - Mass attacks for better success rates
+4. **Target enemy alliance members** - 5x point multiplier!
+5. **Combine looting with points** - Gather resources while scoring
 
-**Territory vs Territory (TvT) Combat:**
-- ✅ Troops return after combat (no permanent loss)
+**TvT (Tank vs Tank) Combat:**
+- ✅ Player vs player combat
 - ✅ No gas cost
+- ✅ Troops return if opponent doesn't have annihilation
 - ✅ Earn points from defeating enemy units
 - ❌ Lower point values than HQ attacks
-- **Best for:** Safer combat with no long-term costs
+- **Best for:** Safer combat practice and point farming
 
 **HQ Farming:**
 - ✅ Higher point values per kill
@@ -123,8 +124,8 @@ This is the SECRET strategy most players don't know!
 
 **High Value:**
 - Enemy alliance members (5x point multiplier!)
-- Weaker enemy HQs (easier kills, fewer losses)
-- Enemy territories (safe combat, troops return)
+- Weaker enemy HQs (easier kills, good loot)
+- TvT targets without annihilation (safe combat, troops return)
 
 **Medium Value:**
 - Resource farms outside alliance (points but no multiplier)
@@ -214,24 +215,6 @@ The looting cap depends on:
 - How to maximize loot vs points
 - When to retreat vs push forward
 
-## City Capture Strategy (Advanced)
-
-**For coordinated alliances only:**
-
-**Benefits of capturing enemy cities:**
-- 7% ATK bonus per city captured (up to 3 cities = 21% total!)
-- Psychological impact on enemy
-- 10 million alliance points for main city capture
-- Shows dominance
-
-**Requirements:**
-- Coordinated alliance effort
-- High power members
-- Strategic timing
-- Resources for sustained combat
-
-**Most alliances:** Don't worry about city capture. Focus on territories and farming instead.
-
 ## Your Day 6 Action Plan
 
 ### BEFORE Day 6 Starts (Saturday 0:00 Server Time):
@@ -248,8 +231,8 @@ The looting cap depends on:
 
 **If Aggressive Hunting:**
 1. Scout enemy alliance members (find weaker targets)
-2. Coordinate with alliance for territory attacks
-3. Launch attacks during active hours
+2. Coordinate with alliance for mass attacks
+3. Use TvT combat for safer engagements (no gas cost)
 4. **Use 8-hour shields when going offline** (not 24-hour!)
 5. Go online → hunt for 1-2 hours → shield when done
 6. Keep healing speedups ready
