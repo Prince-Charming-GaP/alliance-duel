@@ -12,7 +12,7 @@ A comprehensive strategy guide for Alliance Duel events in Last Z: Survival Shoo
 2. **[Day 2: Shelter Upgrade](02_day2_shelter_upgrade.md)** - Building upgrades, construction speedups, and orange bounties
 3. **[Day 3: Age of Science](03_day3_age_of_science.md)** - Research speedups, badge consumption, and intercity trade
 4. **[Day 4: Hero Initiative](04_day4_hero_initiative.md)** - Hero fragments, equipment, recruitment tickets, and power cores
-5. **Day 5: Holistic Growth** *(Coming Soon)* - Troop training and power gains
+5. **[Day 5: Holistic Growth](05_day5_holistic_growth.md)** - Troop training, any speedups, power gains, and radar events
 6. **Day 6: Enemy Buster** *(Coming Soon)* - PvP combat strategies
 
 ### Advanced Content

@@ -337,4 +337,4 @@ This is one of the easier days to score well if you've been disciplined about sa
 
 ---
 
-**[← Back to General Introduction](00_general_introduction.md)** | **[← Day 3: Age of Science](03_day3_age_of_science.md)** | **Next: Day 5 (Holistic Growth) Strategy** *(Coming Soon)*
+**[← Back to General Introduction](00_general_introduction.md)** | **[← Day 3: Age of Science](03_day3_age_of_science.md)** | **[Next: Day 5 (Holistic Growth) →](05_day5_holistic_growth.md)**
