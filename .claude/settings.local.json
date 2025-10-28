@@ -7,7 +7,9 @@
       "WebFetch(domain:lastzdata.com)",
       "WebFetch(domain:firstfungroup.zendesk.com)",
       "WebFetch(domain:lastwar.fandom.com)",
-      "WebFetch(domain:lastwar.wiki)"
+      "WebFetch(domain:lastwar.wiki)",
+      "Bash(git log:*)",
+      "Bash(git rm:*)"
     ],
     "deny": [],
     "ask": []
