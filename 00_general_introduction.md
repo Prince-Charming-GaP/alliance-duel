@@ -41,14 +41,14 @@ Alliance Duel operates within a **league structure** with three competitive tier
 1. **Day 1 (Mon):** Modded Vehicle Boost - Golden wrenches, vehicle upgrades, radar events
 2. **Day 2 (Tuesday):** Shelter Upgrade - Building upgrades, construction speedups, bounties, recruitment
 3. **Day 3 (Wednesday):** Age of Science - Research speedups, badges, intercity trade
-4. **Day 4 (Thursday):** Hero Initiative - Hero fragments, equipment, Skill books
+4. **Day 4 (Thursday):** Hero Initiative - Hero fragments, exclusive equipment, power cores, Enhancement Alloy
 5. **Day 5 (Friday):** Holistic Growth - Troop training, any speedups, power gains, radar events
 6. **Day 6 (Saturday):** Enemy Buster - PvP combat
 
 ## Critical Rules
 
 ### 🚫 DON'T DO THIS:
-- Don't spend resources on the wrong day (hero fragments on Day 2, construction speedups on Day 4, etc.)
+- Don't spend resources on the wrong day (hero fragments on Day 2, construction speedups on Day 4, exclusive equipment fragments on Day 3, etc.)
 - Don't complete green/blue/purple tasks when orange tasks are available
 - Don't open resource chests until you need them (they scale to your HQ level!)
 - Don't switch alliances mid-event (you'll lose all rewards!)

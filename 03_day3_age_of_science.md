@@ -404,4 +404,4 @@ Tomorrow is our biggest scoring opportunity. Let's make it count!
 
 ---
 
-**[← Back to General Introduction](00_general_introduction.md)** | **[← Day 2: Shelter Upgrade](02_day2_shelter_upgrade.md)** | **Next: Day 4 (Hero Initiative) Strategy** *(Coming Soon)*
+**[← Back to General Introduction](00_general_introduction.md)** | **[← Day 2: Shelter Upgrade](02_day2_shelter_upgrade.md)** | **[Next: Day 4 (Hero Initiative) →](04_day4_hero_initiative.md)**
