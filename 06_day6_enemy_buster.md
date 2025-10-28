@@ -254,6 +254,92 @@ The looting cap depends on:
 - How to maximize loot vs points
 - When to retreat vs push forward
 
+## Teleportation Strategy and Safety
+
+**CRITICAL: Master teleportation to hunt safely!**
+
+### The Enemy Buster Menu Teleport:
+
+**You can ALWAYS teleport back to your own state via the Enemy Buster menu!**
+
+This is your emergency escape button:
+- Open Enemy Buster menu (event interface)
+- Tap "Return to Own State" button
+- Instant teleport back to safety
+- Use this whenever you feel threatened
+
+### The 30-Second Rule (VERY IMPORTANT):
+
+**NEVER send your tanks further than 30 seconds from your HQ!**
+
+**Why this matters:**
+- If danger appears, you need time to recall troops
+- Troops far from HQ = vulnerable to attacks
+- Can't teleport with troops marching
+- 30 seconds = safe recall distance
+
+**Best practice:**
+1. Attack targets near where you teleported
+2. If targets are far away, **teleport again closer to them**
+3. Don't be lazy - teleport multiple times!
+4. Keep troops within 30-second recall range
+
+**If you ignore this rule:**
+- At minimum, leave your **strongest tank in your HQ**
+- This tank defends your base if attacked
+- Better than having all tanks out marching
+- But still risky - follow the 30-second rule!
+
+### War Frenzy: The 10-Minute Shield Lockout
+
+**DANGER: War Frenzy = 10 minutes without shield protection!**
+
+**What is War Frenzy:**
+- Triggered when you attack or get attacked
+- Lasts 10 minutes
+- You CANNOT activate shields during this time
+- You can HAVE a shield, but can't activate a NEW one
+- Your HQ is vulnerable during these 10 minutes
+
+**Strategy during War Frenzy:**
+1. **If safe:** Continue hunting, you have 10 minutes
+2. **If threatened:** Teleport to enemy state to escape
+3. **Wait out the 10 minutes** before returning
+4. **Then shield immediately** when back in your state
+
+### Emergency Escape Procedure:
+
+**High-level enemy in your hive after you teleport back?**
+
+1. **Don't panic** - You have options
+2. **Teleport to enemy state immediately** (via Enemy Buster menu)
+3. **Wait 30 seconds** - Cooldown after returning to own state
+4. **Stay in enemy state** until threat passes
+5. **Return when safe** and shield immediately
+
+**Important timing:**
+- 30-second cooldown after teleporting to your own state
+- Can't immediately teleport back to enemy state
+- Plan your return timing carefully
+- Check for threats before returning
+
+### Getting Hit Isn't a Disaster:
+
+**Don't be paralyzed by fear of getting attacked!**
+
+**If your HQ gets hit once or twice:**
+- ✅ You still score points (loser still gets points!)
+- ✅ You get healing speedups to recover
+- ✅ This is part of the learning process
+- ✅ Temporary setback, not a catastrophe
+
+**The real danger:**
+- ❌ Multiple repeated attacks (losing all resources)
+- ❌ Not shielding when offline (easy target)
+- ❌ Staying visible with full resources (attractive target)
+
+**Takeaway:** One or two hits = manageable. Many repeated hits = time to shield!
+
 ## Your Day 6 Action Plan
 
 ### BEFORE Day 6 Starts (Saturday 0:00 Server Time):
@@ -262,9 +348,24 @@ The looting cap depends on:
 - [ ] Buy 24-hour shields only if using Strategy 2 or 3
 - [ ] Check your healing speedups (do you have enough if hunting?)
 - [ ] Check your gas supply (needed for HQ attacks)
+- [ ] **Spend free resources on construction** (resources NOT in warehouse!)
+- [ ] Empty your base of loose resources to become less attractive target
 - [ ] Coordinate with alliance in chat
 - [ ] Position troops appropriately
 - [ ] **Plan to shield when offline - critical for all hunters!**
+
+**IMPORTANT: Resource Management Before Day 6**
+
+Your warehouse protects resources, but **free resources** (not in warehouse) are vulnerable to looting!
+
+**Before Day 6:**
+1. Check how many resources are outside your warehouse
+2. Spend these free resources on building upgrades if possible
+3. Start expensive construction projects to use up loose resources
+4. This makes you a less attractive target for enemy looters
+5. Resources in your warehouse are protected - only free resources get looted
+
+**Strategy:** The fewer free resources you have, the less valuable you are as a target!
 
 ### STARTING Day 6 (Saturday 0:00):
 
@@ -333,6 +434,10 @@ The looting cap depends on:
 6. **Not learning to hunt** - Missing combat experience and growth opportunities
 7. **Attacking randomly** - Target selection matters! Scout first
 8. **Overcommitting in unwinnable weeks** - Sometimes strategic retreat is smart
+9. **Sending troops more than 30 seconds from HQ** - Can't recall in time if threatened
+10. **Not spending free resources before Day 6** - Becoming attractive looting target
+11. **Forgetting about War Frenzy** - Can't shield for 10 minutes after combat
+12. **Panicking when hit once** - One attack isn't a disaster, shield after multiple hits
 
 ## The Valor Medal Rewards
 
@@ -415,10 +520,14 @@ Better to save resources for a winnable week than deplete everything in an unwin
 ## Quick Reference Checklist
 
 **Active Hunting (Strategy 1 - Recommended):**
+- ✅ **Spend free resources before Day 6** (empty your base!)
 - ✅ **Use 8-hour shields** (shield when offline!)
+- ✅ **Follow 30-second rule** (never send troops further than 30s from HQ!)
 - ✅ Scout enemy power levels first
 - ✅ Attack appropriate targets for your power level
 - ✅ Target enemy alliance members (5x multiplier!)
+- ✅ Use Enemy Buster menu to teleport back if threatened
+- ✅ Remember War Frenzy (10 min shield lockout after combat)
 - ✅ Track looting vs gas spent
 - ✅ Keep healing speedups ready
 - ✅ Learn from every battle
