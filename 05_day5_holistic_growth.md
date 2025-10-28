@@ -298,4 +298,4 @@ After Day 5, Day 6 is PvP combat. Build your troop strength on Day 5 to prepare!
 
 ---
 
-**[← Back to General Introduction](00_general_introduction.md)** | **[← Day 4: Hero Initiative](04_day4_hero_initiative.md)** | **Next: Day 6 (Enemy Buster) Strategy** *(Coming Soon)*
+**[← Back to General Introduction](00_general_introduction.md)** | **[← Day 4: Hero Initiative](04_day4_hero_initiative.md)** | **[Next: Day 6 (Enemy Buster) →](06_day6_enemy_buster.md)**
