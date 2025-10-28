@@ -22,18 +22,51 @@ Saturday is **Day 6: Enemy Buster** - the PvP combat finale of Alliance Duel! Th
 
 ## Three Strategy Options
 
-You have three viable approaches for Day 6. **All players should consider hunting** - it's the best way to learn combat mechanics and grow stronger!
+Choose your approach based on your goals and playstyle, not just your power level. **We recommend hunting for growth**, but all strategies are valid!
 
-### Strategy 1: AGGRESSIVE COMBAT (Strong Players)
+### Strategy 1: ACTIVE HUNTING (Recommended for Growth)
 
-**Best for:** High power players, coordinated alliances, those with resources to spare
+**Best for:** Anyone wanting to learn combat, grow stronger, and loot resources - **all power levels can hunt!**
 
-**What to do:**
-1. **TvT (Tank vs Tank) combat** - No gas cost, troops return if no annihilation
-2. **Farm weaker HQs** - Higher points, costs gas, risk troop loss
-3. **Coordinate with alliance** - Mass attacks for better success rates
-4. **Target enemy alliance members** - 5x point multiplier!
-5. **Combine looting with points** - Gather resources while scoring
+**Why hunt?**
+- Learn combat mechanics and target selection
+- Loot resources to accelerate your growth
+- Practice makes you stronger for future weeks
+- Gain combat experience that defensive play can't teach
+- Even small victories build valuable skills
+
+**CRITICAL: 8-Hour Shield Strategy for ALL Hunters**
+
+Regardless of your power level, if you hunt you MUST use 8-hour shields:
+- **Shield when going offline** - Protect your base when not playing
+- **Shield between hunting sessions** - Go online → hunt 1-2 hours → shield when done
+- This works for strong AND weak players
+- Allows you to hunt safely without leaving your base exposed
+
+**How to hunt by power level:**
+
+**Strong players (high power):**
+- TvT (Tank vs Tank) combat - no gas cost, safer practice
+- Strategic HQ attacks - higher points, costs gas
+- Coordinate mass attacks with alliance
+- Target enemy alliance members (5x multiplier!)
+- Use 8-hour shields when offline
+
+**Medium players (mid power):**
+- Focus on weaker enemies for safe wins
+- Farm accounts for easy loot and points
+- TvT combat for gas-free practice
+- Avoid targets above your power
+- Use 8-hour shields when offline
+
+**Weaker players (lower power):**
+- Start with farm accounts (easy wins)
+- Target inactive players (resources built up)
+- Learn to scout and evaluate targets
+- Avoid active strong players completely
+- Use 8-hour shields religiously
+
+**Combat Options:**
 
 **TvT (Tank vs Tank) Combat:**
 - ✅ Player vs player combat
@@ -41,75 +74,81 @@ You have three viable approaches for Day 6. **All players should consider huntin
 - ✅ Troops return if opponent doesn't have annihilation
 - ✅ Earn points from defeating enemy units
 - ❌ Lower point values than HQ attacks
-- **Best for:** Safer combat practice and point farming
+- **Best for:** All power levels - safer combat practice
 
 **HQ Farming:**
 - ✅ Higher point values per kill
-- ✅ Can gain resources from farms
+- ✅ Loot resources from enemy bases
 - ❌ Costs gas
-- ❌ Risk permanent troop loss
-- ❌ High healing costs
-- **Best for:** Strong players targeting weak opponents
+- ❌ Risk permanent troop loss (if they have annihilation)
+- ❌ Healing costs
+- **Best for:** Targeting much weaker opponents
 
-### Strategy 2: DEFENSIVE PARTICIPATION (Medium Players)
+**Key takeaway:** Hunt at YOUR level, use 8-hour shields, learn and grow!
 
-**Best for:** Mid-power players, those low on healing speedups, cautious players
+### Strategy 2: SHIELD WITH REINFORCEMENT (Passive Points)
+
+**Best for:** Players who cannot or prefer not to hunt actively
 
 **What to do:**
-1. **Use 24-hour shield** - Protects your base
-2. **Join HQ as reinforcement** - Still earn points while shielded!
-3. **Selective combat** - Only fight when odds are favorable
-4. **Help alliance defense** - Reinforce allied territories/cities
+1. **Activate 24-hour shield** - Full protection all day
+2. **Join alliance member's HQ as reinforcement** - Earn passive points
+3. **Stay shielded entire day** - Zero risk approach
 
 **The Reinforcement Strategy:**
-This is the SECRET strategy most players don't know!
-
 - You can be shielded AND earn points
-- Join an alliance member's HQ as reinforcement
+- Join a strong alliance member's HQ as reinforcement
 - When enemies attack that HQ, YOU get points
 - Your base stays protected under shield
-- **Free points with zero risk!**
+- Moderate points with zero risk
 
 **How it works:**
 1. Activate 24-hour shield
 2. Reinforce a strong alliance member's HQ
 3. When enemies attack them, you earn combat points
 4. Your own base never gets attacked
-5. Profit!
+5. Collect passive points safely
 
-### Strategy 3: LEARNING TO HUNT (Newer/Weaker Players)
+**When to use this strategy:**
+- You don't want to learn combat mechanics
+- You prefer passive playstyle
+- You're saving resources for next week
+- You have limited time to play actively
+- You simply prefer a safe, low-effort approach
 
-**Best for:** Lower power players ready to learn combat mechanics and grow stronger
+**Trade-offs:**
+- ✅ Zero risk, zero losses, zero costs
+- ✅ Moderate points via reinforcement
+- ✅ Protected all day
+- ❌ Learn nothing about combat
+- ❌ Miss looting opportunities
+- ❌ Don't improve combat skills for future weeks
 
-**THIS IS RECOMMENDED!** Even weak players benefit from learning to hunt:
-- You become a better player by understanding combat
-- Learn to scout, target selection, and resource management
-- Practice makes you stronger for future weeks
-- Looting resources accelerates your growth
-- **The passive reinforcement strategy teaches you nothing!**
+**This is a valid choice!** Not everyone wants to learn combat, and that's okay.
+
+### Strategy 3: FULL SHIELD (Pure Defense)
+
+**Best for:** Strategic resource conservation in unwinnable weeks
 
 **What to do:**
-1. **Start small** - Hunt farm accounts and very weak enemies
-2. **Use 8-hour shields between hunts** - Protect your base when not actively playing
-3. **Scout before attacking** - Learn to identify easy targets
-4. **Loot resources strategically** - Understand the looting cap
-5. **Learn from each battle** - Win or lose, you're building knowledge
+1. **Activate 24-hour shield** - Complete protection
+2. **Stay shielded all day** - Don't participate
+3. **Save all resources for next week**
 
-**Shield Strategy for Hunters:**
-- **8-hour shields** are better than 24-hour shields
-- Shield when going offline or between hunting sessions
-- Go online, hunt for 1-2 hours, shield again
-- This protects you while learning to attack
+**When to use this:**
+- Your alliance faces an impossibly strong opponent (20M+ power difference)
+- Strategic decision to conserve for a winnable week
+- The matchup is completely hopeless
+- Better to save everything for next Alliance Duel
 
-**Why this is better than hiding:**
-- ✅ You learn combat mechanics
-- ✅ You gain looted resources (accelerates growth!)
-- ✅ You practice target selection
-- ✅ You become smarter and stronger
-- ✅ Even losses teach you valuable lessons
-- ❌ Passive reinforcement strategy = learn nothing
+**Trade-offs:**
+- ✅ Zero losses, maximum resource conservation
+- ✅ Save gas, healing speedups, troops for next week
+- ❌ Minimal/zero chest rewards
+- ❌ No points, no learning, no loot
+- ❌ Miss all Day 6 Valor Medals
 
-**Note:** Only shield 24 hours and skip combat if your alliance faces an impossibly strong opponent (20M+ power difference). Otherwise, hunt and learn!
+**This is strategic, not cowardice!** Sometimes the smartest move is to skip an unwinnable fight.
 
 ## Combat Mechanics
 
@@ -218,41 +257,41 @@ The looting cap depends on:
 ## Your Day 6 Action Plan
 
 ### BEFORE Day 6 Starts (Saturday 0:00 Server Time):
-- [ ] Decide your strategy: Aggressive, Defensive, or Learning to Hunt
-- [ ] Check your healing speedups (do you have enough?)
+- [ ] Decide your strategy: Active Hunting, Shield with Reinforcement, or Full Shield
+- [ ] **Buy 8-hour shields if hunting** (for ALL power levels!)
+- [ ] Buy 24-hour shields only if using Strategy 2 or 3
+- [ ] Check your healing speedups (do you have enough if hunting?)
 - [ ] Check your gas supply (needed for HQ attacks)
-- [ ] Buy 8-hour shields for hunting (recommended for most players)
-- [ ] Buy 24-hour shields only if staying fully defensive
 - [ ] Coordinate with alliance in chat
 - [ ] Position troops appropriately
-- [ ] **Shield before going offline!**
+- [ ] **Plan to shield when offline - critical for all hunters!**
 
 ### STARTING Day 6 (Saturday 0:00):
 
-**If Aggressive Hunting:**
-1. Scout enemy alliance members (find weaker targets)
-2. Coordinate with alliance for mass attacks
-3. Use TvT combat for safer engagements (no gas cost)
-4. **Use 8-hour shields when going offline** (not 24-hour!)
-5. Go online → hunt for 1-2 hours → shield when done
-6. Keep healing speedups ready
-7. Balance points with looting opportunities
+**If Active Hunting (Strategy 1 - All Power Levels):**
+1. **Activate 8-hour shield first** - protect your base
+2. Scout enemy alliance members (find appropriate targets for your power)
+3. Go online, hunt for 1-2 hours
+4. **Shield again when done or going offline**
+5. Strong players: Use TvT or HQ attacks
+6. Medium/weak players: Target farm accounts and weaker enemies
+7. Keep healing speedups ready
+8. Balance points with looting opportunities
+9. Repeat cycle: Online → Hunt → Shield
 
-**If Learning to Hunt (Newer Players):**
-1. **Shield when offline, hunt when online**
-2. Scout farm accounts and very weak enemies
-3. Start with 3-5 attacks to learn mechanics
-4. Track your wins/losses and loot gained
-5. Use 8-hour shields between hunting sessions
-6. Learn from every battle (win or lose!)
-7. Focus on targets 30-50% of your power
-
-**If Defensive (Reinforcement Only):**
-1. Activate 24-hour shield
+**If Shield with Reinforcement (Strategy 2 - Passive):**
+1. Activate 24-hour shield immediately
 2. Join strong alliance member's HQ as reinforcement
 3. Earn passive points when they get attacked
 4. Stay protected while contributing
-5. Use this only if truly unable to hunt
+5. No need to be actively online
+
+**If Full Shield (Strategy 3 - Conservation):**
+1. Activate 24-hour shield immediately
+2. Stay shielded all day
+3. Don't participate in any combat
+4. Save all resources for next week
+5. Accept minimal/zero rewards
 
 ## What NOT to Do on Day 6
 
@@ -264,20 +303,25 @@ The looting cap depends on:
 
 ## Competitive Targets
 
-**Aggressive Hunters:**
+**Active Hunting (Strategy 1):**
+
+*Experienced Hunters:*
 - **Casual combat:** 500,000 - 1,000,000 points
 - **Strong combat:** 1,500,000 - 3,000,000 points
 - **Top fighters:** 4,000,000+ points
 - **MVP candidates:** 6,000,000+ points
 
-**Learning Hunters (Newer Players):**
+*Learning Hunters (All Power Levels):*
 - **First-time hunters:** 50,000 - 200,000 points (great start!)
 - **Improving hunters:** 200,000 - 500,000 points
 - **Confident hunters:** 500,000 - 1,000,000 points
 
-**Defensive Players (Reinforcement Only):**
+**Shield with Reinforcement (Strategy 2):**
 - **Reinforcement strategy:** 100,000 - 500,000 points
-- **Limited combat:** 200,000 - 800,000 points
+- **Limited participation:** 200,000 - 800,000 points
+
+**Full Shield (Strategy 3):**
+- **No participation:** 0 - 50,000 points (minimal/zero rewards)
 
 ## Common Mistakes to Avoid
 
@@ -338,57 +382,62 @@ Better to save resources for a winnable week than deplete everything in an unwin
 
 ## Risk vs. Reward Analysis
 
-**Aggressive Hunting:**
-- ✅ High point potential
-- ✅ Valor Medal rewards
-- ✅ Resource looting
-- ✅ Team coordination excitement
-- ❌ Troop losses (manageable with healing speedups)
-- ❌ Gas consumption
-- ⚠️ Use 8-hour shields between hunts
-
-**Learning to Hunt (Recommended for Most):**
+**Active Hunting (Strategy 1 - Recommended):**
 - ✅ Learn combat mechanics
 - ✅ Gain combat experience
 - ✅ Loot resources to grow faster
-- ✅ Moderate points while learning
+- ✅ Moderate to high points (depending on skill/power)
 - ✅ Build skills for future weeks
+- ✅ Resource looting opportunities
 - ❌ Some troop losses (learning cost)
-- ⚠️ Shield when offline (8-hour shields)
+- ❌ Gas consumption
+- ⚠️ Use 8-hour shields between hunts
 
-**Defensive Participation (Passive):**
+**Shield with Reinforcement (Strategy 2 - Passive):**
 - ✅ Moderate points (via reinforcement)
 - ✅ Protected base (shielded)
 - ✅ Lower costs
+- ✅ Zero risk approach
 - ❌ Learn nothing about combat
 - ❌ Miss looting opportunities
 - ❌ Moderate chest rewards
+
+**Full Shield (Strategy 3 - Conservation):**
+- ✅ Zero losses, maximum resource conservation
+- ✅ Save everything for next week
+- ✅ Strategic choice in hopeless matchups
+- ❌ Minimal/zero chest rewards
+- ❌ No points, no learning, no loot
+- ❌ Miss all Day 6 Valor Medals
 
 **Recommendation:** Even weak players should try hunting! The learning and looting benefits outweigh the costs.
 
 ## Quick Reference Checklist
 
-**Hunting Approach (Recommended):**
-- ✅ **Shield when offline** (8-hour shields!)
+**Active Hunting (Strategy 1 - Recommended):**
+- ✅ **Use 8-hour shields** (shield when offline!)
 - ✅ Scout enemy power levels first
-- ✅ Attack weaker targets (30-50% of your power)
+- ✅ Attack appropriate targets for your power level
 - ✅ Target enemy alliance members (5x multiplier!)
 - ✅ Track looting vs gas spent
 - ✅ Keep healing speedups ready
 - ✅ Learn from every battle
-
-**Aggressive Hunting:**
-- ✅ Scout enemy power levels first
-- ✅ Attack strategic targets
 - ✅ Coordinate with alliance
-- ✅ Use 8-hour shields between hunting sessions
 - ✅ Balance points with looting opportunities
 
-**Defensive Approach (Only if truly unable to hunt):**
+**Shield with Reinforcement (Strategy 2 - Passive):**
 - ✅ Activate 24-hour shield
-- ✅ Reinforce alliance member's HQ
+- ✅ Reinforce strong alliance member's HQ
 - ✅ Earn passive points safely
+- ✅ Stay protected all day
 - ❌ Miss learning combat mechanics
+
+**Full Shield (Strategy 3 - Conservation):**
+- ✅ Activate 24-hour shield immediately
+- ✅ Stay shielded all day
+- ✅ Save all resources for next week
+- ✅ Accept minimal/zero rewards
+- ❌ No participation in combat
 
 ## Final Reminder
 
@@ -402,9 +451,9 @@ Better to save resources for a winnable week than deplete everything in an unwin
 5. **Shield management crucial:** Use 8-hour shields between hunts
 
 **Choose YOUR strategy:**
-- Strong and ready? Hunt aggressively with 8-hour shields!
-- Newer/weaker? Start hunting to learn - target weak enemies!
-- Truly unable? Use reinforcement strategy (but learn nothing)
+- **Want to learn and grow?** Active Hunting (Strategy 1) - Hunt at your level with 8-hour shields!
+- **Prefer passive play?** Shield with Reinforcement (Strategy 2) - Safe points with zero risk
+- **Hopeless matchup?** Full Shield (Strategy 3) - Save everything for next week
 
 **Recommendation:** Hunt and learn! Even small victories teach valuable combat skills and provide looted resources. Use 8-hour shields to stay safe between hunting sessions.
 
