@@ -4,15 +4,21 @@
 
 ---
 
-Saturday is **Day 6: Enemy Buster** - the PvP combat finale of Alliance Duel! This day starts at **0:00 Server Time on Saturday**, running through the end of the event. Unlike previous resource management days, this day rewards direct combat and smart looting strategy!
+Saturday is **Day 6: Enemy Buster** - the PvP combat finale of Alliance Duel! This day starts at **0:00 Server Time on Saturday**, running through the end of the event. Unlike previous resource management days, this day rewards direct combat and smart looting strategy! This day is pure fun!
 
 ## What Gives Points on Day 6
 
 ### 🔥 COMBAT POINTS
-1. **Defeating Enemy Alliance Units** - 24-136 points per unit (Tier 1-10)
+1. **Defeating ANY Enemy Units** - 24-136 points per unit (Tier 1-10)
 2. **Fighting Enemy Alliance Members** - **5x points** (5x multiplier when fighting opponent alliance!)
-3. **Winner Bonus** - Winner always scores more than loser
-4. **Loser Still Scores** - Even losing gives points (just fewer)
+3. **Fighting Other Players** - **Base points** (1x - any player in enemy state gives points)
+4. **Winner Bonus** - Winner always scores more than loser
+5. **Loser Still Scores** - Even losing gives points (just fewer)
+
+**Important: You don't need to ONLY attack the enemy alliance to score!**
+- Enemy alliance members = 5x points (best value)
+- Any other player in enemy state = 1x points (still counts!)
+- Even in "unwinnable weeks" you can hunt other players for points
 
 ### 🎁 UNIQUE REWARDS
 **Day 6 chests contain Valor Medals instead of hero fragments!**
@@ -179,18 +185,94 @@ Regardless of your power level, if you hunt you MUST use 8-hour shields:
 
 **Smart hunting combines scoring points with resource gathering!**
 
-### How to Scout Enemy State:
+### Pre-Teleport Reconnaissance:
 
-**Step 1: Open Enemy Alliance Map**
-- Tap on enemy alliance server
-- View their city layout and member locations
-- Identify potential targets
+**BEFORE you teleport to enemy state, scout from your own state:**
+
+1. **Open the map view** (before teleporting)
+2. **Limited zoom available** - You can view enemy state but with restrictions
+3. **Identify high-potential areas** - Look for clusters of bases
+4. **You CANNOT scout individual targets yet** - Full scouting only works after teleport
+5. **Plan your teleport location** - Choose areas with target density
+
+**Why this matters:**
+- Saves time once you teleport
+- Identify promising hunting grounds
+- Avoid empty areas of the map
+- Plan your route before committing to teleport
+
+### Advanced Hunting: Burning HQs and Vulnerable Targets
+
+**🔥 BURNING HQs = HIGH PRIORITY TARGETS!**
+
+When scouting the map pre-teleport, **look for burning HQs** (bases currently under attack).
+
+**Why burning HQs are valuable:**
+- Someone else found them interesting = probably good loot
+- Target might be distracted fighting off current attack
+- Often have resources worth taking
+
+**Watch for this:** Check what the attacker is doing with their HQs!
+
+### GOLD MINE: Enemy With 3 Tanks Out on March
+
+**The absolute BEST hunting opportunity:**
+
+**When you see an enemy player attacking with 3 tanks (their entire army marching):**
+
+1. **Their HQ is VULNERABLE!** - No tanks home to defend
+2. **Check tank distance** - Are tanks far from their HQ? (remember our 30-second rule!)
+3. **If tanks are far away:** That player broke the 30-second rule and is exposed!
+
+**The attack sequence:**
+
+**If you want their resources:**
+1. **Teleport directly next to their HQ** (right beside it!)
+2. **Attack IMMEDIATELY** while their tanks are far away
+3. **Loot everything quickly** before they can recall
+4. **Recall your troops and shield** as soon as loot is secured
+
+**If you fear their 3 returning tanks (worried they'll counterattack):**
+1. **Destroy their HQ completely** (not just loot, but annihilate)
+2. **This forces their HQ to relocate to outer ring**
+3. **They lose track of where you are**
+4. **You run minimal risk of counterattack**
+
+**Why this works:**
+- They violated the 30-second rule (troops too far)
+- Can't recall troops in time to defend
+- By the time tanks return, you're done or they're relocated
+- This is the punishment for sending tanks too far!
+
+**This is why WE follow the 30-second rule** - so this doesn't happen to us!
+
+### Destroyed HQ Relocation:
+
+**Important map mechanic to understand:**
+
+When an HQ is destroyed, it automatically relocates to the **outer ring of the map**.
+
+**Strategic implications:**
+- ✅ Outer ring often has HIGH DENSITY of bases (many destroyed HQs)
+- ❌ Most are already looted (picked clean by others)
+- ❌ Hard to find targets with good loot potential
+- ✅ Good for points if you just want combat
+- ⚠️ Inner areas often have better untouched targets
+
+**Strategy:** Scout inner map areas first for fresh targets with resources!
+
+### How to Scout Enemy State (After Teleporting):
+
+**Step 1: Teleport to Enemy State**
+- Use Enemy Buster menu to enter enemy state
+- Choose landing location based on pre-teleport reconnaissance
+- Recall all troops to HQ before teleporting
 
 **Step 2: Scout Individual Targets**
 - Tap on enemy HQ to view their power level
 - Check if they're shielded (shield icon visible)
 - Look for "farm" accounts (low power, high resources)
-- Scout their troop composition if possible
+- Send scout to check troop composition and exact resources
 
 **Step 3: Assess Target Viability**
 - **Easy targets:** 30-50% of your power (safe wins)
@@ -216,21 +298,57 @@ Regardless of your power level, if you hunt you MUST use 8-hour shields:
 **IMPORTANT: You can only loot a limited amount per attack!**
 
 The looting cap depends on:
-- Your HQ level
+- Your HQ level (higher HQ = much higher cap)
 - Target's HQ level
 - Your troop carrying capacity
+- Technologies researched (Military techs increase capacity)
 - Resource type (food, metal, oil, etc.)
 
-**Typical looting caps:**
-- Low HQ levels (1-15): ~500K-1M per resource type
-- Medium HQ levels (16-20): ~1M-3M per resource type
-- High HQ levels (21-25): ~3M-10M per resource type
+**Looting caps scale significantly with HQ level:**
+- HQ level 26 can loot ~100M per resource type
+- Earlier HQ levels have proportionally lower caps
+- The difference between HQ levels is substantial
+- Check your march info in-game to see your actual carrying capacity
 
 **Strategic implications:**
 - **Don't overkill:** Sending too many troops wastes gas
 - **Send appropriate force:** Just enough to win and carry max loot
 - **Multiple smaller attacks** often more efficient than one massive attack
 - **Focus on resource-rich targets** for maximum looting benefit
+- **Higher HQ = MUCH higher loot potential** - Upgrading HQ dramatically increases carrying capacity
+- **Research military techs** - Many increase troop carrying capacity
+
+### Optimal Hunting Timing:
+
+**BEST TIME TO HUNT: Immediately after Day 6 reset (Saturday 0:00 Server Time)!**
+
+**Why the first hours are golden:**
+
+1. **Maximum loot availability:**
+   - Most bases still have full resources
+   - Not yet looted by other hunters
+   - Fresh targets everywhere
+
+2. **Forgotten shields:**
+   - Many players forget to activate shields
+   - Some fall asleep before reset
+   - Easy undefended targets available
+
+3. **Target abundance:**
+   - High density of vulnerable bases
+   - Better selection of farm accounts
+   - More inactive players unshielded
+
+**Strategy:**
+- Set alarm for reset time if possible
+- First 2-4 hours are peak hunting time
+- Later in the day = picked-over targets
+- Most profitable looting happens early
+
+**But don't worry if you miss reset:**
+- You can still hunt successfully any time during Day 6
+- Just understand early hunters get fresher targets
+- Focus on outer ring avoidance and inner map scouting
 
 ### The Learning Curve:
 
@@ -268,6 +386,17 @@ This is your emergency escape button:
 - Instant teleport back to safety
 - Use this whenever you feel threatened
 
+**IMPORTANT: Teleportation Restrictions**
+
+You CANNOT teleport if:
+- ❌ You have a scout action in progress (scouting an enemy base)
+- ❌ Your tanks are not in your HQ (troops are marching or stationed elsewhere)
+
+**Before teleporting:**
+- Recall all troops back to your HQ
+- Wait for scouts to complete
+- Only then can you teleport safely
+
 ### The 30-Second Rule (VERY IMPORTANT):
 
 **NEVER send your tanks further than 30 seconds from your HQ!**
@@ -302,24 +431,27 @@ This is your emergency escape button:
 - Your HQ is vulnerable during these 10 minutes
 
 **Strategy during War Frenzy:**
-1. **If safe:** Continue hunting, you have 10 minutes
+1. **If safe:** Continue hunting when you are still up to it
 2. **If threatened:** Teleport to enemy state to escape
-3. **Wait out the 10 minutes** before returning
+3. **Wait out the 10 minutes** after you last hq attack to return
 4. **Then shield immediately** when back in your state
 
 ### Emergency Escape Procedure:
 
-**High-level enemy in your hive after you teleport back?**
+**Higher-level enemy in your hive after you teleport back?**
 
 1. **Don't panic** - You have options
-2. **Teleport to enemy state immediately** (via Enemy Buster menu)
-3. **Wait 30 seconds** - Cooldown after returning to own state
+2.  **Pray your HQ is not close to the enemy and wait for 30 seconds** - Cooldown after returning to own state
+3.  **Teleport to safe spot in enemy state asap** (via Enemy Buster menu)
 4. **Stay in enemy state** until threat passes
 5. **Return when safe** and shield immediately
+
+
 
 **Important timing:**
 - 30-second cooldown after teleporting to your own state
 - Can't immediately teleport back to enemy state
+- Don't panic when you are attacked, they usually don't break your defence within the cooldown period
 - Plan your return timing carefully
 - Check for threats before returning
 
@@ -340,9 +472,34 @@ This is your emergency escape button:
 
 **Takeaway:** One or two hits = manageable. Many repeated hits = time to shield!
 
+### FREE Teleport Back to Hive (If Your HQ Was Destroyed):
+
+**💡 IMPORTANT TIP: If your HQ was destroyed during Day 6, you get a FREE teleport back to your hive!**
+
+**How it works:**
+1. Your HQ was destroyed and relocated to outer ring
+2. You want to get back to your alliance hive
+3. **Use the Enemy Buster menu before Day 6 ends:**
+   - Teleport to enemy state (free via Enemy Buster menu)
+   - Immediately teleport back to your own state (free via Enemy Buster menu)
+   - You're now back in your original state
+
+4. **Now use a regular teleport item to return to hive**
+   - OR wait until you have teleport available
+   - This gets you back home without wasting expensive teleports
+
+**Why this works:**
+- Enemy Buster menu teleports are FREE during the event
+- You can use this to return to your state for free
+- Then use regular teleport to get back to hive position
+- Smart way to recover from HQ destruction without cost
+
+**Time limit:** Only works during Day 6 event! After event ends, Enemy Buster menu closes.
+
 ## Your Day 6 Action Plan
 
 ### BEFORE Day 6 Starts (Saturday 0:00 Server Time):
+- [ ] Put on a shield when you go to sleep during reset! This is crucial for all!
 - [ ] Decide your strategy: Active Hunting, Shield with Reinforcement, or Full Shield
 - [ ] **Buy 8-hour shields if hunting** (for ALL power levels!)
 - [ ] Buy 24-hour shields only if using Strategy 2 or 3
@@ -351,7 +508,7 @@ This is your emergency escape button:
 - [ ] **Spend free resources on construction** (resources NOT in warehouse!)
 - [ ] Empty your base of loose resources to become less attractive target
 - [ ] Coordinate with alliance in chat
-- [ ] Position troops appropriately
+- [ ] Have enough troops ready
 - [ ] **Plan to shield when offline - critical for all hunters!**
 
 **IMPORTANT: Resource Management Before Day 6**
@@ -396,11 +553,11 @@ Your warehouse protects resources, but **free resources** (not in warehouse) are
 
 ## What NOT to Do on Day 6
 
+- ❌ **DON'T forget to shield**
 - ❌ **DON'T attack without checking power levels** - Easy way to lose troops
 - ❌ **DON'T overcommit against superior opponents** - Accept some fights aren't winnable
-- ❌ **DON'T attack your own alliance members** - Points only work against enemy alliance!
-- ❌ **DON'T forget to shield** (if going defensive/full defense)
 - ❌ **DON'T use resources saved for next week** - If matched badly, conserve for better weeks
+- ❌ **DON'T forget to shield!!!** (In case you didn't hear me earlier)
 
 ## Competitive Targets
 
@@ -426,10 +583,11 @@ Your warehouse protects resources, but **free resources** (not in warehouse) are
 
 ## Common Mistakes to Avoid
 
+1. **Not having a shield when day starts and you are stil in bed** - You are probably f*cked
 1. **Attacking without scouting** - Walking into stronger opponents
 2. **Not having healing speedups ready** - Massive healing costs without speedups
 3. **Attacking during low alliance activity** - No backup when needed
-4. **Not using 8-hour shields between hunts** - Getting attacked while offline
+4. **Not using shields between hunts** - Getting attacked while offline
 5. **Forgetting to shield when going offline** - Losing resources unnecessarily
 6. **Not learning to hunt** - Missing combat experience and growth opportunities
 7. **Attacking randomly** - Target selection matters! Scout first
@@ -474,16 +632,40 @@ Day 6: **Valor Medals** in chests
 
 **Sometimes matchmaking gives you an impossibly strong opponent.**
 
-When this happens, smart alliances:
+**You have two valid options:**
+
+### Option 1: Strategic Conservation (Full Shield)
 1. Recognize the power gap early
 2. Coordinate resource conservation
 3. Shield on Day 6
 4. Save everything for next week
 5. Accept this week as a strategic skip
 
-**This is smart strategy, not giving up!**
+**This is smart strategy, not giving up!** Better to save resources for a winnable week than deplete everything in an unwinnable fight.
 
-Better to save resources for a winnable week than deplete everything in an unwinnable fight.
+### Option 2: Hunt for Personal Growth (Active Hunting)
+
+**Even in hopeless weeks, you can still score points and grow!**
+
+**The key insight: You don't need to beat the enemy alliance to benefit from Day 6!**
+
+- Attack ANY player in enemy state (not just enemy alliance)
+- Farm accounts and weak players = 1x points (still counts!)
+- Enemy alliance members = 5x points (if you find weak ones)
+- Focus on learning and looting, not alliance victory
+- Build combat skills for future weeks
+- Gather resources to accelerate growth
+
+**Strategy for hopeless weeks:**
+1. Use 8-hour shields (protect yourself)
+2. Hunt weaker targets across entire enemy state
+3. Avoid strong enemy alliance members
+4. Focus on farm accounts and inactive players
+5. Loot resources for YOUR growth, not alliance victory
+6. Accept you won't win the alliance matchup
+7. Still gain personal progression benefits
+
+**Remember:** Alliance Duel victory ≠ Personal progression. Even if your alliance loses badly, YOU can still grow stronger through smart hunting!
 
 ## Risk vs. Reward Analysis
 
