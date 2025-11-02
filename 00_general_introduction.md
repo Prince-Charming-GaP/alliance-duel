@@ -161,16 +161,24 @@ This isn't about who spends the most - it's about who plans the best. Free-to-pl
 
 ## What's Next?
 
-Over the next week, I'll send daily emails explaining exactly what to do each day and what to save. Read them carefully - they'll tell you:
-- What resources to use TODAY
-- What to save for later
-- Specific point values and strategies
-- Common mistakes to avoid
+This guide covers all six days of Alliance Duel plus advanced strategies:
 
-Remember: **Alliance Duel rewards patience and planning over raw power.** We've got this! 💪
+**Daily Strategies:**
+- [Day 1 (Modded Vehicle Boost)](01_day1_modded_vehicle.md) - Golden wrenches, vehicle upgrades, radar events
+- [Day 2 (Shelter Upgrade)](02_day2_shelter_upgrade.md) - Building upgrades, construction speedups, bounties
+- [Day 3 (Age of Science)](03_day3_age_of_science.md) - Research badges, intercity trade (THE MOST IMPORTANT DAY!)
+- [Day 4 (Hero Initiative)](04_day4_hero_initiative.md) - Hero fragments, exclusive equipment, power cores
+- [Day 5 (Holistic Growth)](05_day5_holistic_growth.md) - Troop training, any speedups, power gains
+- [Day 6 (Enemy Buster)](06_day6_enemy_buster.md) - PvP combat and looting strategies
 
-Questions? Ask in alliance chat so other people can learn too!
-Let me know when you have any additions or corrections too!
+**Advanced Play:**
+- [Advanced Strategies](07_advanced_strategies.md) - Focus Days strategy, weekly cycles, Chinatsu investment
+
+Each daily guide explains specific point values, what to save, and common mistakes to avoid.
+
+Remember: **Alliance Duel rewards patience and planning over raw power.**
+
+Questions? Ask in alliance chat so everyone can learn together!
 
 ---
 

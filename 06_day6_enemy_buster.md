@@ -752,4 +752,4 @@ Day 6: **Valor Medals** in chests
 
 ---
 
-**[← Back to General Introduction](00_general_introduction.md)** | **[← Day 5: Holistic Growth](05_day5_holistic_growth.md)**
+**[← Back to General Introduction](00_general_introduction.md)** | **[← Day 5: Holistic Growth](05_day5_holistic_growth.md)** | **Next: [Advanced Strategies](07_advanced_strategies.md)**
