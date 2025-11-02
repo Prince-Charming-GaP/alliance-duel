@@ -12,7 +12,11 @@
       "Bash(git rm:*)",
       "WebFetch(domain:last-z.wiki)",
       "Bash(git mv:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git checkout:*)",
+      "Bash(git stash:*)",
+      "Bash(git ls-tree:*)"
     ],
     "deny": [],
     "ask": []
