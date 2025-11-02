@@ -183,25 +183,33 @@ Consuming 24 million hero experience typically unlocks all task chests, making t
 - [ ] Ensure ALL hero resources are saved (don't use Wednesday night!)
 
 ### STARTING Day 4 (Thursday):
-1. **Wait for Golden Hour!** (Around 8:00 Server Time or before reset)
-2. **Use ALL hero fragments** (orange > purple > blue)
-3. **Use ALL exclusive equipment fragments**
-4. **Use ALL prime recruitment tickets**
-5. **Use ALL power cores** (promote orange equipment)
+1. **Wait for Golden Hour!** (8:00-12:00 or 20:00-24:00 Server Time)
+2. **Use ALL hero fragments** (orange > purple > blue) - benefits from Golden Hour
+3. **Use ALL exclusive equipment fragments** - benefits from Golden Hour
+4. **Use ALL prime recruitment tickets** - benefits from Golden Hour
+5. **Use ALL power cores** (promote orange equipment) - benefits from Golden Hour
 6. **Use Enhancement Alloy** (enhance orange equipment)
-7. **Consume hero experience** to level heroes
+7. **Consume hero experience** to level heroes - can do anytime (doesn't benefit from Golden Hour)
 8. **Use skill books** (on heroes you use)
 9. **Upgrade equipment** with fragments
 
 ## Golden Hour Timing
 
 **Day 4 Golden Hours:**
-- **First window:** Around 8:00 Server Time (morning)
-- **Second window:** Around 6:30pm Server Time (before reset)
+- **First window:** 8:00-12:00 Server Time (Theme 3 - always matches Alliance Duel day)
+- **Second window:** 20:00-24:00 Server Time (Theme 3 - always matches Alliance Duel day)
 
-**Hero upgrades during Golden Hour = Alliance Duel points + potential Full Preparedness rewards!**
+**Important Golden Hour Notes:**
 
-If Full Preparedness has hero-related tasks, you'll complete both simultaneously.
+Activities that benefit from Golden Hour (Alliance Duel + Full Preparedness):
+- Hero fragments consumption
+- Exclusive equipment fragments
+- Prime recruitment tickets
+- Power cores
+
+Activities that DON'T benefit from Golden Hour (Alliance Duel only):
+- **Hero experience consumption** - Only gives Alliance Duel points, NOT Full Preparedness points
+- This means you can consume hero experience anytime on Day 4 - Golden Hour timing doesn't matter for this activity
 
 ## What NOT to Do on Day 4
 
@@ -228,7 +236,7 @@ If Full Preparedness has hero-related tasks, you'll complete both simultaneously
 2. **Consuming purple/blue equipment** - Gives 0 points! Complete waste!
 3. **Consuming valuable orange equipment** - 300k points isn't worth destroying good gear
 4. **Not using Enhancement Alloy** - Missing easy points from equipment upgrades
-5. **Not waiting for Golden Hour** - Missing potential double rewards
+5. **Not waiting for Golden Hour for fragments/cores/tickets** - Missing potential double rewards (Note: Hero experience doesn't need Golden Hour)
 6. **Upgrading heroes on wrong days** - Day 4 is the ONLY day that counts
 7. **Wasting resources on unused heroes** - Focus on heroes you actually use
 
@@ -325,7 +333,7 @@ Only consuming ORANGE equipment as promotional material gives points (300,000 ba
 
 The strategy is simple:
 1. **Save ALL hero-related resources all week**
-2. **Use ALL of them on Day 4 during Golden Hour**
+2. **Use fragments/cores/tickets during Golden Hour** (hero experience can be used anytime)
 3. **Focus on orange fragments for maximum points**
 4. **Use Enhancement Alloy and Power Cores to upgrade equipment**
 5. **Don't consume purple/blue equipment (0 points!)**

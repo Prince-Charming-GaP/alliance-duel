@@ -9,7 +9,10 @@
       "WebFetch(domain:lastwar.fandom.com)",
       "WebFetch(domain:lastwar.wiki)",
       "Bash(git log:*)",
-      "Bash(git rm:*)"
+      "Bash(git rm:*)",
+      "WebFetch(domain:last-z.wiki)",
+      "Bash(git mv:*)",
+      "Bash(git add:*)"
     ],
     "deny": [],
     "ask": []
