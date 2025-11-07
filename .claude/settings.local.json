@@ -16,7 +16,8 @@
       "Bash(git commit:*)",
       "Bash(git checkout:*)",
       "Bash(git stash:*)",
-      "Bash(git ls-tree:*)"
+      "Bash(git ls-tree:*)",
+      "Bash(git cherry-pick:*)"
     ],
     "deny": [],
     "ask": []
