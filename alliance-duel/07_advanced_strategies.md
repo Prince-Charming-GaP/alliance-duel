@@ -234,15 +234,136 @@ Chinatsu's bonus applies to EVERY Alliance Duel action across all 6 days, making
 
 ---
 
+## The Points Sprint - Double Points Final 10 Minutes
+
+**CRITICAL DISCOVERY:** The final 10 minutes before daily reset (00:00 Server Time) grants **2x points for ALL Alliance Duel actions!**
+
+This mechanic is not documented anywhere in-game and most players are unaware of it. However, competitive alliances use it strategically to swing close matches.
+
+### How Points Sprint Works:
+
+**Sprint Window:**
+- **23:50-00:00 Server Time** (10 minutes before daily reset)
+- ALL Alliance Duel actions earn **DOUBLE points**
+- No visible multiplier indicator in-game
+- Works every single day of Alliance Duel
+
+**The Math:**
+- 50 golden wrenches normally: 920,000 points (with research)
+- Same 50 wrenches during sprint: **1,840,000 points**
+- **920,000 bonus points just from timing!**
+
+### Strategic Implementation:
+
+**For Alliance-Wide Coordination:**
+
+Alliance leadership should announce sprint strategy:
+- Have members prepare resources before 23:50
+- Coordinate who goes for rank 1 during sprint
+- Focus highest-value quick actions during final 10 minutes
+
+**Individual Sprint Strategy:**
+
+1. **Resource Preparation (23:40-23:50):**
+   - Have all resources ready to use
+   - Open component boxes and prepare items
+   - Don't start using until 23:50!
+
+2. **Sprint Execution (23:50-00:00):**
+   - Focus on QUICK actions only
+   - Golden wrenches (instant)
+   - Component boxes (instant)
+   - Badges (instant)
+   - Vehicle/equipment upgrades (instant start)
+   - Avoid construction (takes time to start)
+
+3. **Timing Critical:**
+   - Set alarm for 23:45 to prepare
+   - Watch server clock closely
+   - Better 10 seconds late than 10 seconds early!
+
+### Combining Sprint with Golden Hour:
+
+The 20:00-24:00 Golden Hour window includes the sprint period!
+
+**Optimal Strategy:**
+- **20:00-23:50:** Use 70% of resources (Golden Hour rewards from both events)
+- **23:50-00:00:** Use remaining 30% of BEST resources (2x Alliance Duel points + Full Preparedness)
+
+**Example Split:**
+- Use 35 golden wrenches during 20:00-23:50
+- Save 15 BEST wrenches for 23:50-00:00 sprint
+- Result: Maximize both Full Preparedness chests AND Alliance Duel sprint bonus
+
+### Why This Decides Close Matches:
+
+Many Alliance Duel weeks come down to narrow margins:
+- Alliance scores: 48.2M vs 47.8M (400k difference)
+- One player using sprint: +920k bonus from 50 wrenches
+- **Sprint usage can single-handedly swing victories**
+
+**Common Scenario:**
+- You're monitoring opponent score throughout day
+- Match is close at 23:40
+- You deploy sprint strategy at 23:50
+- Opponent doesn't know about sprint
+- You win by 500k-1M points
+
+### Alliance Communication:
+
+**Leadership should announce:**
+- "Today is focus day - everyone save resources for 23:50 sprint"
+- "If competing for rank 1, coordinate sprint timing"
+- "Watch server clock - 23:50-00:00 is double points"
+
+**During Close Matches:**
+- Monitor opponent score
+- Communicate in alliance chat
+- Coordinate who uses sprint when needed
+
+### Sprint + Chinatsu + Research Stack:
+
+The multipliers combine:
+
+**50 golden wrenches at 23:55 with full bonuses:**
+- Base: 250,000 points
+- Sprint (2x): 500,000 points
+- Event Expert (+100%): 1,000,000 points
+- Event King (+200%): 1,500,000 points
+- Chinatsu (+45%): 2,175,000 points
+- Incentive - Vehicle (+100%): 2,900,000 points
+
+**Same 50 wrenches: 250k base → 2.9M with sprint + bonuses = 11.6x multiplier!**
+
+### Critical Notes:
+
+**Don't Overcommit to Sprint:**
+- You still need Full Preparedness points
+- Don't save 100% for sprint - split 70/30 or 80/20
+- Balance sprint gains with Full Prep chest rewards
+
+**Sprint is Not Always Needed:**
+- If alliance is dominating day easily, spread resources across Golden Hour
+- If match is close or you want rank 1, sprint becomes critical
+- Leadership calls sprint deployment based on opponent score
+
+**Practice Sprint Timing:**
+- First time users often fumble (wrong timing, slow execution)
+- Practice on a save day to learn timing
+- Have resources PRE-OPENED and ready to use instantly
+
+---
+
 ## Conclusion
 
 These advanced strategies transform Alliance Duel from a simple weekly event into a strategic competition where alliance coordination and long-term planning matter more than raw power or spending.
 
-**The Three Pillars of Advanced Alliance Play:**
+**The Four Pillars of Advanced Alliance Play:**
 
 1. **Focus Days Strategy:** Alliance leadership coordinates which 3-4 days to dominate each week, while members save resources strategically and still earn chest rewards on save days
 2. **Weekly Cycle Thinking:** The alliance operates in continuous cycles - always either competing or preparing for the next matchup
-3. **Chinatsu Investment:** Members who invest in Chinatsu gain 25-45% passive point bonuses that compound with research bonuses across all 6 days
+3. **Points Sprint Mastery:** Save best resources for final 10 minutes (23:50-00:00) to earn double points - can swing close matches and secure rank 1
+4. **Chinatsu Investment:** Members who invest in Chinatsu gain 25-45% passive point bonuses that compound with research bonuses across all 6 days
 
 **Implementation:** Alliance leadership should start with the Focus Days strategy first. Announce focus days at the beginning of each week and ensure all members understand which resources to deploy versus save. This single change can double alliance effectiveness by concentrating collective resources where they matter most.
 

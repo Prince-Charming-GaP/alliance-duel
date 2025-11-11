@@ -59,6 +59,7 @@ Alliance Duel operates within a **league structure** with three competitive tier
 - Only do **ORANGE tasks** when possible (they give 10-100x more points than lower tiers)
 - Click "Help Alliance" button as much as possible to give free speedups to teammates
 - Wait for "Golden Hour" (check Full Preparedness calendar for alignment timing)
+- **CRITICAL: Save resources for Points Sprint (last 10 minutes before reset = 2x points!)**
 
 ## The Golden Hour Strategy
 
@@ -91,6 +92,38 @@ These two windows ALWAYS match your current Alliance Duel day theme, so you can 
 **Additional Golden Hours:** You may also get bonus Golden Hours during the other time slots (0:00-4:00, 4:00-8:00, 12:00-16:00, 16:00-20:00) if those themes happen to align with your current Alliance Duel day. Check the Full Preparedness calendar in-game to see the rotation.
 
 **Strategy:** Wait for Golden Hour windows to do your major upgrades, research, and resource spending - you'll unlock chests and earn medals for BOTH events with the same actions!
+
+## The Points Sprint - DOUBLE POINTS!
+
+**CRITICAL DISCOVERY:** The final 10 minutes before daily reset (00:00 Server Time) grants **2x points for ALL actions!**
+
+**Points Sprint Window:**
+- **23:50-00:00 Server Time** (10 minutes before reset)
+- **ALL Alliance Duel actions earn DOUBLE points**
+- No visible multiplier indicator in-game
+- Most players don't know about this mechanic
+
+**Ultimate Strategy - Golden Hour + Points Sprint:**
+
+If you combine both mechanics during the 20:00-24:00 window:
+- **20:00-23:50:** Use resources during Golden Hour (Alliance Duel + Full Preparedness rewards)
+- **23:50-00:00:** Save your BEST resources for Points Sprint (2x Alliance Duel points!)
+
+**Example with 50 Golden Wrenches (with research):**
+- Normal time: 50 x 18,400 = 920,000 points
+- Golden Hour: 920,000 points + Full Preparedness chests
+- **Points Sprint: 50 x 36,800 = 1,840,000 points!**
+
+**Critical Sprint Strategy:**
+1. Save highest-value actions for final 10 minutes
+2. Have resources ready (don't fumble during sprint!)
+3. Use quick actions (golden wrenches, component boxes, badges)
+4. Avoid slow actions (construction upgrades take time to start)
+5. Watch the clock - don't miss the window!
+
+**Why This Matters:**
+
+Many alliances lose because opponents use Points Sprint while they don't. The 2x multiplier in final 10 minutes can swing victories. **If you're competing for rank 1 or close alliance duel match, Points Sprint is often the deciding factor.**
 
 ## Research Investment = Massive Multipliers
 

@@ -1,23 +1,11 @@
 {
   "permissions": {
     "allow": [
-      "Bash(mkdir:*)",
+      "Bash(for file in email/state_ruler_*.md)",
+      "Bash(sort:*)",
       "WebSearch",
-      "WebFetch(domain:bacons-last-z-guide.fandom.com)",
       "WebFetch(domain:lastzdata.com)",
-      "WebFetch(domain:firstfungroup.zendesk.com)",
-      "WebFetch(domain:lastwar.fandom.com)",
-      "WebFetch(domain:lastwar.wiki)",
-      "Bash(git log:*)",
-      "Bash(git rm:*)",
-      "WebFetch(domain:last-z.wiki)",
-      "Bash(git mv:*)",
-      "Bash(git add:*)",
-      "Bash(git commit:*)",
-      "Bash(git checkout:*)",
-      "Bash(git stash:*)",
-      "Bash(git ls-tree:*)",
-      "Bash(git cherry-pick:*)"
+      "WebFetch(domain:bacons-last-z-guide.fandom.com)"
     ],
     "deny": [],
     "ask": []
